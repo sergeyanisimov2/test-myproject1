@@ -22,7 +22,7 @@ jobs:
     
     steps:
       - name: Print Hello message
-        run: echo "Hello World from Deploy job
+        run: echo "Hello World from Deploy job"
 
       
       
